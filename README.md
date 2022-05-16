@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Tabular Data Machine Learning
-- 🌱 I’m currently learning Natural Language Processing
-- 👯 I’m looking to collaborate for Kaggle competitions
-- 🤔 I’m looking for help with Machine Learning Pipeline
-- 💬 Ask me about Chess, Shogi, MLOps
+- 👯 I’m wannabe Kaggler
+- 🤔 I’d love to use Julia for Machine Learning
+- 💬 Ask me about Chess, Shogi
 - 📫 How to reach me: @vochicong on [Facebook](https://www.facebook.com/vochicong), [Twitter](https://twitter.com/vochicong)
 - ⚡ Fun fact: The Busier You Are, the More You Need Sleep
 
