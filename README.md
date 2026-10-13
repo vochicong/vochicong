@@ -1,21 +1,23 @@
-### Hi there 👋
+### Võ Chí Công (Cong)
 
-<!--
-**vochicong/vochicong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sagamihara, Japan.
 
-Here are some ideas to get you started:
--->
+I build AI tools for learning and for working with AI agents.
+I also play chess and shogi, and follow AI, ML and RL.
 
-- 🔭 I’m currently working on Tabular Data Machine Learning
-- 👯 I’m wannabe Kaggler
-- 🤔 I’d love to use Julia for Machine Learning
-- 💬 Ask me about Chess, Shogi
-- 📫 How to reach me: @vochicong on [Facebook](https://www.facebook.com/vochicong), [Twitter](https://twitter.com/vochicong)
-- ⚡ Fun fact: The Busier You Are, the More You Need Sleep
+## Projects
+
+- [Kachinoko](https://kachinoko.com): AI study planner and certification practice, in Vietnamese, Japanese and English. A sole proprietorship, started October 2026.
+- [Kakehashi](https://kachinoko.com/kakehashi/): a queue where AI agents ask people for decisions. Early access.
+
+## Interests
+
+Chess, Shogi, AI, ML, RL
+
+## Contact
+
+- [Facebook](https://www.facebook.com/vochicong), [Twitter](https://twitter.com/vochicong)
 
 #### Flower in my neighborhood, Sagamihara city, Japan
 
-![image](https://lh3.googleusercontent.com/pw/ACtC-3cSOOTFwVTdfLVftl59_209JitXihEglUm7ITvfzA4L-gBPaYv2Z_-WhRVhwGlzZT3H1L1EuoaTu2eRJ7HYm9pDqEzetgslPvdk3OBKatEEwTAdzlKs0_PlDHdgnwqeekysJ66V-osGdpR0kw9i5mWP=w2128-h1596-no?authuser=0)
-
-#### With my mother in my hometown, Quy Nhon, Vietnam
-![image](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/83358176_1247790698750642_3613421643289853952_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=qlIoe0VKy2IAX-ri_V1&_nc_ht=scontent-nrt1-1.xx&oh=31117e6ec61bff4352dddc1a11d33a4e&oe=5F9346EF)
+![Flower in Sagamihara](https://lh3.googleusercontent.com/pw/ACtC-3cSOOTFwVTdfLVftl59_209JitXihEglUm7ITvfzA4L-gBPaYv2Z_-WhRVhwGlzZT3H1L1EuoaTu2eRJ7HYm9pDqEzetgslPvdk3OBKatEEwTAdzlKs0_PlDHdgnwqeekysJ66V-osGdpR0kw9i5mWP=w2128-h1596-no?authuser=0)
