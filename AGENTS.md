@@ -12,4 +12,4 @@ This is Cong's GitHub profile repo. `README.md` is shown on github.com/vochicong
 - Do not name an employer.
 - Use only facts Cong has confirmed.
 - Drop an image when its URL stops returning HTTP 200.
-- Every change goes through a PR. Cong merges.
+- Every change goes through a PR on a per-feature branch. Merge only after a review and Cong's go.
