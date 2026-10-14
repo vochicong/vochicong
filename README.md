@@ -1,21 +1,28 @@
-### Hi there 👋
+# Võ Chí Công
 
-<!--
-**vochicong/vochicong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Kachinoko. Based in Sagamihara, Japan.
 
-Here are some ideas to get you started:
--->
+Mission: an AI platform to learn, practice and get certified in any subject. Two pre-launch products on the way, built on Claude in English, Japanese and Vietnamese, and operated by me in Japan. Join either waitlist at [kachinoko.com](https://kachinoko.com).
 
-- 🔭 I’m currently working on Tabular Data Machine Learning
-- 👯 I’m wannabe Kaggler
-- 🤔 I’d love to use Julia for Machine Learning
-- 💬 Ask me about Chess, Shogi
-- 📫 How to reach me: @vochicong on [Facebook](https://www.facebook.com/vochicong), [Twitter](https://twitter.com/vochicong)
-- ⚡ Fun fact: The Busier You Are, the More You Need Sleep
+## [Kachinoko](https://kachinoko.com): learn on the time you have
+A study planner, first for the CCAR-P exam.
+- You enter two things: your exam date and the minutes you have each day.
+- You get a daily review plan, short, clear and paced to your date.
+- Planned: practice questions written by Claude, with explanations that adapt to your weak topics. Not yet public.
 
-#### Flower in my neighborhood, Sagamihara city, Japan
+## [Kakehashi](https://kachinoko.com/kakehashi/): answer your agents from your phone
+A personal tool for one person or a team running several AI agents, such as Claude Code, Codex, Pi.dev, OpenCode or VibeFlow.
+- Agents ask: each agent sends its question to one queue instead of waiting on you.
+- Most urgent first: what blocks work is at the top.
+- You answer from any device, and the agents keep working.
 
-![image](https://lh3.googleusercontent.com/pw/ACtC-3cSOOTFwVTdfLVftl59_209JitXihEglUm7ITvfzA4L-gBPaYv2Z_-WhRVhwGlzZT3H1L1EuoaTu2eRJ7HYm9pDqEzetgslPvdk3OBKatEEwTAdzlKs0_PlDHdgnwqeekysJ66V-osGdpR0kw9i5mWP=w2128-h1596-no?authuser=0)
+## Privacy
+Waitlist emails and answers are used only to tell you when the products open. No sharing, no trackers, no cookies. To have your data deleted, email hello@kachinoko.com.
 
-#### With my mother in my hometown, Quy Nhon, Vietnam
-![image](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/83358176_1247790698750642_3613421643289853952_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=qlIoe0VKy2IAX-ri_V1&_nc_ht=scontent-nrt1-1.xx&oh=31117e6ec61bff4352dddc1a11d33a4e&oe=5F9346EF)
+## Public work
+- [kowaza](https://github.com/vochicong/kowaza): small tips for machine learning and AI development (Apache-2.0)
+
+## Contact
+hello@kachinoko.com
+
+Kachinoko and Kakehashi are built on Claude and are not affiliated with or endorsed by Anthropic. CCAR-P is named for reference only.
